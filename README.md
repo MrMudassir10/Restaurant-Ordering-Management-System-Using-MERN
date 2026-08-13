@@ -131,7 +131,7 @@ REACT_APP_STRIPE_PUBLIC_KEY = ""
 ### `npm install`
 ### `npm start`
 
-## BACK_END :-  .env
+## BACK_END :  .env
 
 ```
 MONGODB_URL = ""
